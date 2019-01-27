@@ -1,0 +1,10 @@
+{
+  "name": "@bit/bit.docs.content.docs",
+  "version": "0.0.5",
+  "homepage": "https://bitsrc.io/bit/docs/content/docs",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE"
+}
